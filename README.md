@@ -8,11 +8,4 @@
 
 - Implementation : Facial Detection, Facial Recognition, Emotion Detection & Saving reviews in database.
 
-- Python libraries which we are using :
- - numpy
- - Open CV
- - keras
- - face_recognition
- - SQLite3
- - marshal
- - mathplotlib
+- Python libraries which we are using : numpy, Open CV, keras, face_recognition, SQLite3, marshal, mathplotlib
