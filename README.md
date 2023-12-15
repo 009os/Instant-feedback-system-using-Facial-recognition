@@ -6,6 +6,6 @@
 
 - improve their services to possible extents and provide customers with an even better experience in the future. 
 
-- Implementation : Facial Detection, Facial Recognition, Emotion Detection & Saving reviews in database.
+- Implementation : Facial Detection, Facial Recognition, Emotion Detection.
 
-- Python libraries which we are using : numpy, Open CV, keras, face_recognition, SQLite3, marshal, mathplotlib
+- Python libraries which we are using : numpy, Open CV, keras, face_recognition, marshal, mathplotlib
